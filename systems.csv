@@ -218,6 +218,7 @@ nldr;NLD;Netherlands Rijkswegen;TMlightsalmon;4;active
 nldp;NLD;Netherlands Provinciale Wegen;TMyellow;5;active
 nldrw;NLD;Netherlands Ringwegen;TMyellow;5;active
 nlds;NLD;Netherlands Stadsroutes;TMyellow;5;active
+nldrail;NLD;Netherlands Railways;TMyellow;5;preview
 normot;NOR;Norway Motorveier;TMblue;1;active
 norrv;NOR;Norway Riksveier;TMlightsalmon;4;active
 norfv;NOR;Norway Primære Fylkesveier;TMyellow;5;active
